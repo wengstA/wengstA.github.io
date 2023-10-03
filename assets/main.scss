@@ -1,8 +1,9 @@
 ---
 ---
 
-@import "minima";
+@import "{{ site.theme }}";
 
 h1, h2, h3, h4, h5, h6 {
-    color: #14498f;
+    color: #1E90FF;
 }
+
